@@ -1,0 +1,110 @@
+[
+  {
+    "id": 10,
+    "title": "Аризоне 10 лет!",
+    "date": "23 Августа 2024",
+    "description": "10 лет вместе с Вами! ",
+    "picture": "3421234234234234.png",
+    "url": "https://youtu.be/4qV8Zn-x5qE",
+    "type": "video",
+    "deleted": false,
+    "createdAt": "2024-08-25T17:09:17.418Z",
+    "updatedAt": "2024-08-25T17:09:17.418Z"
+  },
+  {
+    "id": 9,
+    "title": "Лето 2024 || Обновление",
+    "date": "10 Июля 2024",
+    "description": "Летнее обновление",
+    "picture": "Bez-imeni-1.png",
+    "url": "https://youtu.be/3OTwPXvsfSg",
+    "type": "video",
+    "deleted": false,
+    "createdAt": "2024-07-15T17:52:28.964Z",
+    "updatedAt": "2024-08-06T20:57:14.241Z"
+  },
+  {
+    "id": 8,
+    "title": "Пасхальное обновление",
+    "date": "05 Мая 2024",
+    "description": "Пришло время оценить наше пасхальное обновление !",
+    "picture": "213213213.png",
+    "url": "https://youtu.be/5Vf7fps-UaM",
+    "type": "video",
+    "deleted": false,
+    "createdAt": "2024-05-09T00:32:27.073Z",
+    "updatedAt": "2024-06-19T16:13:30.100Z"
+  },
+  {
+    "id": 7,
+    "title": "Межсерверное обновление",
+    "date": "17 Марта 2024",
+    "description": "Уважаемые игроки Arizona RP.Мы подготовили для вас огромное обновление",
+    "picture": "234.png",
+    "url": "https://youtu.be/J9AWVwSU0k4",
+    "type": "video",
+    "deleted": false,
+    "createdAt": "2024-03-30T01:20:58.801Z",
+    "updatedAt": "2024-03-30T01:20:58.801Z"
+  },
+  {
+    "id": 6,
+    "title": "Новогоднее обновление",
+    "date": "01 января 2024",
+    "description": "Встречайте новое обновление!",
+    "picture": "new_year.png",
+    "url": "https://youtu.be/k1W3csSNo2s",
+    "type": "video",
+    "deleted": false,
+    "createdAt": "2023-12-24T09:33:12.948Z",
+    "updatedAt": "2024-02-01T14:23:14.229Z"
+  },
+  {
+    "id": 5,
+    "title": "Хэллоуин",
+    "date": "31 октября 2023",
+    "description": "Встречайте новое обновление!",
+    "picture": "arizona_halwn_2023.jpeg",
+    "url": "https://youtu.be/0LMq8NfdwhU",
+    "type": "video",
+    "deleted": false,
+    "createdAt": "2023-12-24T09:34:51.135Z",
+    "updatedAt": "2023-12-24T09:34:51.135Z"
+  },
+  {
+    "id": 3,
+    "title": "День рождение",
+    "date": "23 августа 2023",
+    "description": "Встречайте новое обновление!",
+    "picture": "arizona_hb.jpeg",
+    "url": "https://youtu.be/TfCf1BvN1Jk",
+    "type": "video",
+    "deleted": false,
+    "createdAt": "2023-12-24T09:31:55.460Z",
+    "updatedAt": "2023-12-24T09:31:55.460Z"
+  },
+  {
+    "id": 2,
+    "title": "Летнее",
+    "date": "24 июня 2023",
+    "description": "Встречайте новое обновление!",
+    "picture": "arizona_summer_2023.jpeg",
+    "url": "https://youtu.be/nYMqWcy6eJE",
+    "type": "video",
+    "deleted": false,
+    "createdAt": "2023-12-24T09:29:28.354Z",
+    "updatedAt": "2023-12-24T09:29:28.354Z"
+  },
+  {
+    "id": 1,
+    "title": "Первое летнее",
+    "date": "9 мая 2023",
+    "description": "Встречайте новое обновление!",
+    "picture": "arizona_summer_1_2023.jpeg",
+    "url": "",
+    "type": "image",
+    "deleted": false,
+    "createdAt": "2023-12-24T09:23:54.452Z",
+    "updatedAt": "2023-12-24T09:23:54.452Z"
+  }
+]

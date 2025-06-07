@@ -1,0 +1,14 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g id="house-svgrepo-com (2) 1" clip-path="url(#clip0_14047_104)">
+    <path
+      id="Vector"
+      d="M0 10H2.5L10 1.44L17.5 10H20L11.26 0H8.76L0 10ZM2.5 20H7.5V13.76C7.5 13.4133 7.62 13.12 7.86 12.88C8.1 12.64 8.4 12.5133 8.76 12.5H11.26C11.5933 12.5 11.8867 12.6267 12.14 12.88C12.3933 13.1333 12.5133 13.4267 12.5 13.76V20H17.5V11.62L10 3.34L2.5 11.62V20ZM16.26 3.82L18.76 6.68V1.26H16.26V3.82Z"
+      fill="white"
+    />
+  </g>
+  <defs>
+    <clipPath id="clip0_14047_104">
+      <rect width="20" height="20" fill="white" />
+    </clipPath>
+  </defs>
+</svg>
